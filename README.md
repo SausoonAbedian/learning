@@ -1,2 +1,2 @@
-# learning
-This branch is for my own learning
+# Learning Branch
+This repository is for my own learning.
