@@ -62,7 +62,6 @@ print(f"i = {0}, n = {21}, length = {6}, arr = {arr}")
 insert_middle(arr, 3, 22, 7)
 print(f"i = {3}, n = {22}, length = {7}, arr = {arr}")
 
-
 print('\nTesting remove_middle\n')
 
 remove_middle(arr, 7, 8)
